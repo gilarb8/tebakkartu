@@ -7,7 +7,7 @@
  to be played with friends when gathered together, can give rules
  punishment if one guesses whether the score is greater or less.
 
-## Work system
+## How it's Work
 
  Brief description of the game work system:
  1. When the game starts, you will see a playing card emoji on the screen.
