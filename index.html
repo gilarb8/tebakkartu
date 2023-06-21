@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Tebak Nilai</title>
+</head>
+
+<body>
+  
+  <!--Penjelasan : untuk App ini kita sama sekali tidak menggunakan source img,
+agar tidak gagal rendering yg menyebabkan error pada tampilan, kita menggunakan
+emoji yg dijadikan array yg nantinya akan ditampilkan sebagai pengganti gambar
+tebak tebakannya-->
+  
+  <h1>Tebak Nilai Kartu</h1>
+  <h2>Apakah Lebih Besar atau Lebih Kecil</h2>
+  <div id="game-container">
+    <div id="card-container">
+      <span id="card-emoji"></span>
+    </div>
+    <div id="buttons-container">
+      <button id="btn-bigger">Lebih Besar</button>
+      <button id="btn-smaller">Lebih Kecil</button>
+    </div>
+    <div id="result-container">
+      <p id="result-text"></p>
+      <button id="btn-play-again">Main Lagi</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
