@@ -31,7 +31,7 @@
  
 ## Technology Used
 
- -HTML
+ - HTML
  - CSS
  - JavaScript
 
