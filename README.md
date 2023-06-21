@@ -1,5 +1,4 @@
 # Tebak Kartu
-# Lebih Besar atau Lebih Kecil
 
 Ini adalah source files web app permainan sederhana Tebak Kartu.
 Dalam permainan ini, pemain akan diberikan sebuah kartu remi
