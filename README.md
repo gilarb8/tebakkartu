@@ -26,4 +26,4 @@ silahkan gunakan source files ini sesuai dengan kebutuhan anda.
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [Mozilla Public License 2.0].
+Proyek ini dilisensikan di bawah [Mozilla Public License 2.0]
