@@ -39,10 +39,6 @@
 
  please use these source files according to your needs.
 
-## Licence
-
-This project is licensed under [Mozilla Public License 2.0]
-
 ===========================================================
 
 Ini adalah source files web app permainan sederhana Tebak Kartu.
