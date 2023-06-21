@@ -1,4 +1,4 @@
-## Tebak Kartu
+# Tebak Kartu
 
  This is the source files web app for the simple game Guess the Cards.
  In this game, players will be given a playing card
