@@ -43,9 +43,7 @@
 
 This project is licensed under [Mozilla Public License 2.0]
 
-============================================================
-
-## Tebak Kartu
+===========================================================
 
 Ini adalah source files web app permainan sederhana Tebak Kartu.
 Dalam permainan ini, pemain akan diberikan sebuah kartu remi
